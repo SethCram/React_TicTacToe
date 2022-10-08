@@ -1,4 +1,6 @@
 /*
+Author: Seth Cram
+Tutorial: https://reactjs.org/tutorial/tutorial.html
 A game that:
   Lets you play tic-tac-toe,
   Indicates when a player has won the game,
